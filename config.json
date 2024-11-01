@@ -1,0 +1,6 @@
+{
+    "company_name": "Your Company Name",
+    "company_url": "https://example.com",
+    "logo_path": "default-logo.svg",
+    "output_dir": "invoices"
+}

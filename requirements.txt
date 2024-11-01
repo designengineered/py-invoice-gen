@@ -1,0 +1,3 @@
+# Core dependencies
+pathlib>=1.0.1
+typing>=3.7.4.3 

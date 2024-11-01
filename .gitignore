@@ -1,0 +1,14 @@
+# Generated files
+generated-invoices/
+*.html
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
